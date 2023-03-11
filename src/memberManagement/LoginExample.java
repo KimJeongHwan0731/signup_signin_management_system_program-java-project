@@ -25,7 +25,7 @@ public class LoginExample {
 		while (isRun) {
 			if (isLogin) {
 				System.out.println("========================================================================");
-				System.out.println("\t           [1]회원정보 수정 | [2]회원탈퇴 | [3]로그아웃\t");
+				System.out.println("\t           [1]회원정보 수정 | [2]회원탈퇴 | [3]로그아웃");
 				System.out.println("========================================================================");
 				System.out.print("원하시는 메뉴를 선택해 주세요. >> ");
 

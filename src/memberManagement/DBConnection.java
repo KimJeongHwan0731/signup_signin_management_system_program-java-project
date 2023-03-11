@@ -19,7 +19,7 @@ public class DBConnection {
 		Properties properties = new Properties();
 		FileInputStream fis = null;
 		try {
-			fis = new FileInputStream("C:/SelfStudyJava/java0303/src/sec01/login01/db.properties");
+			fis = new FileInputStream("C:/SelfStudyJava/java0303/src/memberManagement/db.properties");
 			properties.load(fis);
 		} catch (FileNotFoundException e) {
 			System.out.println("FileInputStream error" + e.getStackTrace());
