@@ -25,12 +25,17 @@
 - MySql ERD  
 ![0  ERD_Upload](https://user-images.githubusercontent.com/126849373/224494740-05891f76-6140-4a1b-8a2a-e1a7ce30956b.PNG)
 
-- 로그인 실패 및 성공  
+- 회원가입 성공 및 로그인 유지 확인  
+![1  Output_Upload](https://user-images.githubusercontent.com/126849373/224525591-2361ef1b-6bb0-4aee-ae80-a3e5431dbe7d.png)
+
+- 로그인 실패 및 성공 확인  
 ![2  Output_Upload](https://user-images.githubusercontent.com/126849373/224495834-2d336ee8-00d1-4ed1-8685-582e73a9b4b7.gif)
 
-- 로그인 성공 후 개인정보(=ID) 수정 완료  
+- 로그인 성공 후 개인정보 수정 완료 확인  
 ![3  Output_Upload](https://user-images.githubusercontent.com/126849373/224495708-35d39cda-46bf-4a8e-9527-82c40a6764c6.gif)
 
-- 계정 수정 후 로그인 성공 및 탈퇴 완료  
-- 탈퇴한 계정으로 로그인 불가 확인  
+- 수정된 계정으로 로그인 성공 및 탈퇴 완료 / 탈퇴 계정으로 로그인 불가 확인  
 ![3  Output_Upload](https://user-images.githubusercontent.com/126849373/224495958-c5cf6083-fe6e-44d6-9bb1-e4421c2b9629.gif)
+
+- 회원정보 찾기 실패 및 성공 확인
+![3  Output_Upload](https://user-images.githubusercontent.com/126849373/224525830-369c746a-d626-4c30-a0cc-b4a3d3f38b6d.png)
