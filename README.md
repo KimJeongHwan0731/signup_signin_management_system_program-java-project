@@ -28,7 +28,7 @@
 | Github | https://github.com/KimJeongHwan0731/login_flow_registration_management_system_program-java-project |
 
 ## 개발 기간
-2023-03-03(Fri) ~ 2023-03-06(Mon)
+2023-03-03(Fri) ~ 2023-03-05(Sun)
 
 ## 적용 기술 및 구현 기능
 
